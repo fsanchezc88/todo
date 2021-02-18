@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
-import Person from "../../components/Person/Person";
-import classes from "./PersonContainer.module.css";
+import Person from "../../../components/Person/Person";
+import classes from "./PersonsContainer.module.css";
 
 
-const PersonContainer = () =>{
+const PersonsContainer = () =>{
     const [personsState, setPersonsState] = useState({
         persons: [
             {id: 1, name: 'Faure', age: 18},
@@ -87,4 +87,4 @@ const PersonContainer = () =>{
     )
 }
 
-export default PersonContainer;
+export default PersonsContainer;

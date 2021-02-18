@@ -1,10 +1,11 @@
 import React from 'react';
-import PersonContainer from "./containers/PersonContainer/PersonContainer";
+
+import ShopContainer from "./containers/ShopContainer/ShopContainer";
 
 const App = () => {
 
    return (
-       <PersonContainer/>
+       <ShopContainer/>
    )
 }
 

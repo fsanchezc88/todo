@@ -1,0 +1,101 @@
+{
+  "persons": [
+  {
+    "id": 1,
+    "name": "Faure",
+    "age": 18
+  },
+  {
+    "id": 2,
+    "name": "Oscar",
+    "age": 24
+  },
+  {
+    "id": 3,
+    "name": "Vidal",
+    "age": 19
+  }
+
+],
+  "products": [
+    {
+      "id": "1",
+      "name":"Balon de Futbol",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":35,
+      "symbol": "$",
+      "image": "./favico.ico"
+    },
+    {
+      "id": "2",
+      "name":"Pelota de Softball",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":12,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "3",
+      "name":"Balon de Baloncesto",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":40,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "4",
+      "name":"Zapatilla de futbol",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":18,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "5",
+      "name":"Zapatilla de futbol",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":18,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "6",
+      "name":"Chanclas",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":8,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "7",
+      "name":"Bate de Baseball",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":11,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "8",
+      "name":"Guante de Baseball",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":19,
+      "symbol": "$",
+      "image": "./"
+    },
+    {
+      "id": "9",
+      "name":"Bicicleta de carreras",
+      "description":"Confecionada en el 2020 y sus materiales son resistentes y ligeros.",
+      "price":450,
+      "symbol": "$",
+      "image": "./"
+    }
+  ],
+  "shoppingCart": [
+    {
+    "id": 0,
+    "cant": 0,
+    "price": 0
+    }
+  ]
+}
